@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 Meu nome é Héllen Florentino, sou professora de Tecnologia e Robótica para as turmas da 1ª série do Ensino Médio na escola estadual Waldemar Thomazine.
 
 Estou estudando na Alura
